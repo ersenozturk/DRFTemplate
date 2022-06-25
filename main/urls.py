@@ -13,7 +13,7 @@ schema_view = get_schema_view(
         default_version="v1",
         description="Flight Reservation API project provides flight and reservation info",
         terms_of_service="#",
-        contact=openapi.Contact(email="700zturkersen@gmail.com"),  # Change e-mail on this line!
+        contact=openapi.Contact(email="rafe@clarusway.com"),  # Change e-mail on this line!
         license=openapi.License(name="BSD License"),
     ),
     public=True,
